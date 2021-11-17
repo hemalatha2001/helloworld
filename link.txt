@@ -1,0 +1,2 @@
+https://phoenixnap.com/kb/install-hadoop-ubuntu
+https://tecadmin.net/hadoop-running-a-wordcount-mapreduce-example/
